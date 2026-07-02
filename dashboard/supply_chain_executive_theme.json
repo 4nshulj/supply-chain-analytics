@@ -1,0 +1,57 @@
+{
+  "name": "Supply Chain Control Tower",
+  "dataColors": [
+    "#0C447C",
+    "#0F6E56",
+    "#D85A30",
+    "#BA7517",
+    "#5F6B6D",
+    "#6FA8D6",
+    "#7FBFA8",
+    "#E89C7C"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2C2C2A",
+  "tableAccent": "#0C447C",
+
+  "good": "#0F6E56",
+  "neutral": "#BA7517",
+  "bad": "#D85A30",
+
+  "maximum": "#0C447C",
+  "center": "#F1EFE8",
+  "minimum": "#D85A30",
+
+  "textClasses": {
+    "title": {
+      "fontSize": 20,
+      "color": "#0C447C"
+    },
+    "header": {
+      "fontSize": 13,
+      "color": "#2C2C2A"
+    },
+    "label": {
+      "fontSize": 10,
+      "color": "#5F5E5A"
+    },
+    "callout": {
+      "fontSize": 28,
+      "color": "#0C447C"
+    }
+  },
+
+  "visualStyles": {
+    "*": {
+      "*": {
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#D3D1C7" } },
+            "radius": 8
+          }
+        ]
+      }
+    }
+  }
+}
