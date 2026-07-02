@@ -1,0 +1,63 @@
+warehouse_id,region,city
+WH-01,North America,Dallas
+WH-02,Asia Pacific,Mumbai
+WH-03,Europe,Rotterdam
+WH-04,North America,Columbus
+WH-05,Middle East & Africa,Dubai
+WH-06,Middle East & Africa,Riyadh
+WH-07,North America,Dallas
+WH-08,North America,Chicago
+WH-09,Europe,Madrid
+WH-10,Middle East & Africa,Dubai
+WH-11,Middle East & Africa,Johannesburg
+WH-12,Middle East & Africa,Riyadh
+WH-13,Europe,Milan
+WH-14,Middle East & Africa,Cairo
+WH-15,North America,Phoenix
+WH-16,Europe,Lyon
+WH-17,Latin America,Bogota
+WH-18,Asia Pacific,Mumbai
+WH-19,Europe,Manchester
+WH-20,Asia Pacific,Shenzhen
+WH-21,North America,Toronto
+WH-22,North America,Atlanta
+WH-23,Asia Pacific,Jakarta
+WH-24,Asia Pacific,Busan
+WH-25,North America,Columbus
+WH-26,Latin America,Lima
+WH-27,North America,Toronto
+WH-28,North America,Memphis
+WH-29,Asia Pacific,Busan
+WH-30,Middle East & Africa,Cairo
+WH-31,Middle East & Africa,Johannesburg
+WH-32,North America,Dallas
+WH-33,Europe,Manchester
+WH-34,Asia Pacific,Shenzhen
+WH-35,Europe,Manchester
+WH-36,North America,Toronto
+WH-37,Asia Pacific,Osaka
+WH-38,Asia Pacific,Mumbai
+WH-39,Asia Pacific,Singapore
+WH-40,Europe,Lyon
+WH-41,Asia Pacific,Ho Chi Minh City
+WH-42,North America,Memphis
+WH-43,Europe,Madrid
+WH-44,Europe,Rotterdam
+WH-45,Latin America,Santiago
+WH-46,Asia Pacific,Ho Chi Minh City
+WH-47,Middle East & Africa,Johannesburg
+WH-48,Asia Pacific,Busan
+WH-49,North America,Chicago
+WH-50,North America,Phoenix
+WH-51,Asia Pacific,Osaka
+WH-52,Asia Pacific,Shenzhen
+WH-53,Europe,Madrid
+WH-54,Asia Pacific,Mumbai
+WH-55,Latin America,Santiago
+WH-56,Latin America,Mexico City
+WH-57,Asia Pacific,Mumbai
+WH-58,Europe,Lyon
+WH-59,Middle East & Africa,Nairobi
+WH-60,Asia Pacific,Ho Chi Minh City
+(blank),#N/A,#N/A
+Grand Total,#N/A,#N/A

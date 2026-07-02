@@ -1,0 +1,221 @@
+supplier_id,supplier_name,country,supplier_rating,lead_time_days,defect_rate,on_time_delivery_rate
+SUP-0001,Nova Goods,Taiwan,4.1,16,1.28,86.4
+SUP-0002,Nova Goods 2,Germany,3.7,33,6.31,89.2
+SUP-0003,Pioneer Textiles,Turkey,3.5,22,0.41,84.5
+SUP-0004,Unity Industries,Thailand,2.7,8,0.42,73.2
+SUP-0005,Global Industries,India,3.3,9,3.38,81.8
+SUP-0006,Crown Textiles,Thailand,2.9,13,0.49,78.9
+SUP-0007,Crown Goods,Poland,3.4,15,1.22,82.1
+SUP-0008,,Bangladesh,3.2,24,1.69,73.3
+SUP-0009,Nova Trading,Turkey,3.0,19,3.73,83.4
+SUP-0010,Summit Exports,Italy,3.9,16,0.51,84.4
+SUP-0011,Global Fabrication,South Korea,3.5,27,1.56,84.9
+SUP-0012,Apex Fabrication,Taiwan,3.6,13,3.21,87.5
+SUP-0013,Atlas Logistics,Thailand,4.4,26,0.08,85.2
+SUP-0014,Crown Materials,Vietnam,3.6,20,0.12,89.7
+SUP-0015,Summit Goods,India,3.1,10,2.44,79.4
+SUP-0016,Unity Manufacturing,South Korea,4.4,20,0.91,86.3
+SUP-0017,Cascade Holdings,Mexico,3.8,33,0.95,85.9
+SUP-0018,,Turkey,3.6,18,0.54,71.9
+SUP-0019,Cascade Industries,Italy,4.7,14,0.06,87.7
+SUP-0020,Crown Logistics,Italy,3.5,25,0.41,85.0
+SUP-0021,Crown Exports,Poland,3.9,26,3.62,82.0
+SUP-0022,Pioneer Textiles 2,Germany,3.6,14,3.75,75.0
+SUP-0023,Orion Textiles,Turkey,3.8,15,0.43,83.3
+SUP-0024,Orion Exports,Taiwan,3.3,16,2.67,83.8
+SUP-0025,Global Supply Co,Germany,4.0,17,0.44,75.5
+SUP-0026,Unity Manufacturing 2,Vietnam,3.8,18,0.56,99.5
+SUP-0027,Cascade Materials,Taiwan,3.7,20,1.21,91.5
+SUP-0028,Falcon Logistics,United States,4.3,24,1.2,83.9
+SUP-0029,Global Components,Taiwan,4.2,41,2.34,82.7
+SUP-0030,Nova Industries,Vietnam,3.5,18,0.03,80.0
+SUP-0031,Prime Trading,Italy,2.9,18,0.5,72.7
+SUP-0032,Apex Exports,Thailand,4.7,12,1.68,90.7
+SUP-0033,Sterling Textiles,Brazil,4.3,10,0.97,79.8
+SUP-0034,Unity Exports,India,3.9,19,0.69,90.9
+SUP-0035,Summit Exports 2,Italy,4.1,20,2.12,83.7
+SUP-0036,Nova Goods 3,United States,3.9,20,0.28,81.9
+SUP-0037,Cascade Exports,Thailand,4.9,21,0.15,88.4
+SUP-0038,Prime Holdings,United States,4.3,28,2.27,84.5
+SUP-0039,Prime Logistics,Bangladesh,4.3,37,0.55,84.1
+SUP-0040,Crown Fabrication,Germany,3.3,17,2.19,83.4
+SUP-0041,Unity Exports 2,Indonesia,3.8,31,1.15,89.2
+SUP-0042,Apex Components,United States,3.3,10,6.77,84.3
+SUP-0043,Apex Materials,China,3.7,23,4.74,87.4
+SUP-0044,Nova Exports,United States,3.8,12,0.65,76.3
+SUP-0045,Nova Components,China,3.9,10,1.91,80.9
+SUP-0046,Apex Holdings,Brazil,3.9,18,2.16,79.3
+SUP-0047,Global Components 2,Vietnam,4.4,27,0.38,93.3
+SUP-0048,Cascade Manufacturing,Italy,4.1,21,1.47,99.5
+SUP-0049,Horizon Industries,Turkey,4.4,23,0.45,85.6
+SUP-0050,Pioneer Logistics,Brazil,3.7,14,1.41,85.1
+SUP-0051,Unity Components,Turkey,4.2,8,0.05,85.8
+SUP-0052,Sterling Holdings,Taiwan,4.5,18,0.24,84.5
+SUP-0053,Cascade Supply Co,Poland,3.4,19,1.59,95.1
+SUP-0054,Unity Components 2,Thailand,4.2,6,0.41,89.7
+SUP-0055,Unity Goods,United States,3.3,16,7.23,84.4
+SUP-0056,Apex Industries,Brazil,4.3,10,0.35,87.4
+SUP-0057,Vertex Materials,Bangladesh,4.9,20,0.2,99.5
+SUP-0058,Vertex Trading,Italy,4.4,8,1.56,87.3
+SUP-0059,Prime Manufacturing,Brazil,4.1,24,0.14,68.4
+SUP-0060,Crown Fabrication 2,Vietnam,3.2,15,2.2,73.1
+SUP-0061,Global Goods,South Korea,3.5,18,1.97,90.0
+SUP-0062,Horizon Industries 2,United States,3.8,11,1.75,88.2
+SUP-0063,Pioneer Components,Turkey,3.8,14,1.46,94.9
+SUP-0064,Unity Textiles,Bangladesh,3.1,40,1.17,68.1
+SUP-0065,Sterling Logistics,Indonesia,4.0,13,0.58,83.5
+SUP-0066,Pioneer Industries,Indonesia,4.3,20,2.52,85.2
+SUP-0067,Orion Exports 2,Vietnam,4.3,23,0.23,93.9
+SUP-0068,Global Fabrication 2,Turkey,4.2,17,1.95,89.3
+SUP-0069,Falcon Manufacturing,Vietnam,4.1,16,0.78,92.8
+SUP-0070,Cascade Components,India,4.3,30,2.71,89.5
+SUP-0071,,Indonesia,4.0,16,1.28,82.1
+SUP-0072,Pioneer Goods,Taiwan,5.0,11,0.7,87.7
+SUP-0073,Global Textiles,Bangladesh,4.2,23,0.89,89.1
+SUP-0074,Global Goods 2,Mexico,3.4,26,0.26,81.3
+SUP-0075,Cascade Trading,Mexico,4.0,13,0.16,88.5
+SUP-0076,Vertex Holdings,South Korea,3.5,14,8.63,84.4
+SUP-0077,Orion Exports 3,Brazil,2.9,9,7.65,73.9
+SUP-0078,Prime Trading 2,India,3.7,20,4.26,93.5
+SUP-0079,Pioneer Logistics 2,United States,3.8,11,1.08,87.3
+SUP-0080,Global Supply Co 2,South Korea,3.3,22,1.03,90.6
+SUP-0081,Atlas Manufacturing,South Korea,4.2,14,4.29,89.9
+SUP-0082,,China,3.8,18,1.26,80.8
+SUP-0083,Nova Trading 2,Turkey,4.7,26,0.79,97.8
+SUP-0084,Cascade Exports 2,India,3.9,41,0.33,81.4
+SUP-0085,,Vietnam,2.5,13,0.24,77.1
+SUP-0086,Falcon Textiles,Vietnam,4.9,26,0.11,90.7
+SUP-0087,Nova Industries 2,Brazil,3.0,36,5.03,86.1
+SUP-0088,Falcon Components,Bangladesh,3.5,8,3.69,91.1
+SUP-0089,Apex Supply Co,United States,3.7,29,0.57,84.6
+SUP-0090,Nova Supply Co,China,3.8,14,0.24,89.1
+SUP-0091,,Bangladesh,3.9,21,1.78,77.0
+SUP-0092,Crown Supply Co,Poland,4.6,20,1.33,87.3
+SUP-0093,Atlas Materials,Taiwan,4.5,18,0.82,89.5
+SUP-0094,Summit Components,Brazil,4.4,23,0.26,98.4
+SUP-0095,,United States,4.4,7,0.63,88.6
+SUP-0096,Summit Goods 2,India,4.2,32,1.27,89.0
+SUP-0097,Crown Fabrication 3,Mexico,2.8,17,10.57,65.0
+SUP-0098,Unity Materials,Taiwan,3.7,9,0.25,88.6
+SUP-0099,Orion Industries,China,4.0,11,0.64,86.6
+SUP-0100,Unity Supply Co,Poland,4.4,11,0.05,93.2
+SUP-0101,Apex Industries 2,Turkey,3.5,12,0.19,82.4
+SUP-0102,Pioneer Exports,Mexico,3.2,13,2.7,73.4
+SUP-0103,Sterling Materials,Taiwan,3.4,19,5.33,81.5
+SUP-0104,,Germany,3.7,22,0.42,89.1
+SUP-0105,Summit Textiles,Indonesia,3.6,6,0.87,93.7
+SUP-0106,Falcon Exports,South Korea,3.7,22,1.37,86.5
+SUP-0107,Summit Supply Co,Thailand,3.7,11,0.5,80.1
+SUP-0108,Crown Exports 2,China,2.9,13,5.75,71.7
+SUP-0109,Crown Exports 3,Mexico,4.8,25,0.48,93.9
+SUP-0110,Cascade Fabrication,Vietnam,3.3,32,0.3,84.6
+SUP-0111,Cascade Textiles,Mexico,3.3,9,1.86,73.0
+SUP-0112,Apex Industries 3,South Korea,4.1,13,0.47,84.9
+SUP-0113,Atlas Textiles 2,Mexico,3.8,12,6.87,84.0
+SUP-0114,Summit Supply Co 2,United States,3.3,13,2.43,85.9
+SUP-0115,Prime Materials 2,United States,3.9,24,0.53,82.2
+SUP-0116,Crown Fabrication 4,Italy,4.1,12,0.39,77.0
+SUP-0117,Summit Exports 3,Indonesia,4.0,11,1.31,86.6
+SUP-0118,Summit Manufacturing,Vietnam,3.1,13,0.35,80.1
+SUP-0119,Crown Goods 2,Italy,4.4,13,1.26,93.4
+SUP-0120,Summit Manufacturing 2,China,4.7,5,2.12,87.8
+SUP-0121,Horizon Textiles,Brazil,4.0,13,0.3,87.5
+SUP-0122,Summit Textiles 2,South Korea,3.7,28,2.85,86.1
+SUP-0123,,South Korea,3.5,14,3.37,84.7
+SUP-0124,Vertex Exports,China,5.0,25,0.85,93.0
+SUP-0125,Apex Industries 4,Taiwan,2.6,11,1.04,75.9
+SUP-0126,Prime Textiles,Turkey,4.8,20,0.55,92.1
+SUP-0127,Global Materials,Poland,3.9,24,4.5,77.3
+SUP-0128,Atlas Textiles 3,Bangladesh,4.5,20,0.76,88.5
+SUP-0129,Sterling Manufacturing,Mexico,3.9,19,0.6,91.2
+SUP-0130,Horizon Manufacturing 2,Taiwan,3.3,18,4.61,78.5
+SUP-0131,Horizon Components,Brazil,4.4,14,2.06,88.6
+SUP-0132,Pioneer Fabrication,Vietnam,3.2,14,2.95,82.9
+SUP-0133,Horizon Exports,Taiwan,4.3,30,0.94,84.8
+SUP-0134,,Poland,3.1,7,7.06,88.8
+SUP-0135,Prime Textiles 2,Taiwan,4.0,10,1.42,87.7
+SUP-0136,Cascade Components 2,Italy,4.2,21,0.22,89.9
+SUP-0137,Sterling Textiles 2,Taiwan,4.9,30,0.8,88.3
+SUP-0138,Vertex Manufacturing,India,3.7,18,0.92,91.2
+SUP-0139,Prime Materials 3,Thailand,3.7,14,0.01,78.5
+SUP-0140,Cascade Goods,Thailand,2.8,24,1.15,77.8
+SUP-0141,Crown Holdings,Thailand,3.6,34,1.14,82.3
+SUP-0142,Pioneer Logistics 3,India,3.6,17,1.65,77.7
+SUP-0143,Orion Holdings,Vietnam,4.1,12,0.98,86.8
+SUP-0144,Vertex Manufacturing 2,Italy,3.4,18,0.49,81.5
+SUP-0145,Unity Components 3,United States,3.9,47,2.39,79.6
+SUP-0146,Falcon Trading,Germany,4.6,5,0.46,84.7
+SUP-0147,Summit Components 2,United States,3.9,20,0.75,84.7
+SUP-0148,Global Fabrication 3,United States,4.3,9,0.03,92.3
+SUP-0149,Vertex Materials 2,Mexico,3.3,16,0.58,81.6
+SUP-0150,Falcon Industries,Thailand,3.9,16,1.69,84.1
+SUP-0151,Summit Materials,Brazil,3.7,24,3.19,79.0
+SUP-0152,,Brazil,4.8,11,0.24,83.4
+SUP-0153,Falcon Exports 2,Germany,4.9,10,0.54,89.3
+SUP-0154,Global Industries 2,Taiwan,4.3,9,0.96,78.9
+SUP-0155,Summit Textiles 3,Poland,3.5,26,1.11,82.8
+SUP-0156,Summit Manufacturing 3,Vietnam,5.0,23,0.08,87.3
+SUP-0157,Nova Goods 4,Germany,3.9,8,1.69,89.5
+SUP-0158,Prime Materials 4,Bangladesh,3.5,22,0.29,92.7
+SUP-0159,Nova Exports 2,Vietnam,4.7,11,0.43,95.7
+SUP-0160,Vertex Supply Co,United States,4.0,5,0.27,84.9
+SUP-0161,Summit Manufacturing 4,South Korea,3.9,9,0.55,89.7
+SUP-0162,Vertex Manufacturing 3,Turkey,4.6,11,0.75,99.5
+SUP-0163,Cascade Exports 3,Brazil,3.6,18,0.06,84.9
+SUP-0164,Prime Holdings 2,South Korea,4.2,8,0.89,78.5
+SUP-0165,Crown Components,Germany,4.4,15,1.43,91.7
+SUP-0166,Vertex Industries,Brazil,5.0,17,0.14,98.0
+SUP-0167,Cascade Materials 2,Poland,4.1,10,0.63,93.4
+SUP-0168,Horizon Fabrication,Italy,3.0,16,5.16,83.9
+SUP-0169,Apex Holdings 2,Taiwan,4.2,29,0.37,95.0
+SUP-0170,Summit Exports 4,Mexico,2.9,17,7.5,83.1
+SUP-0171,,Germany,3.9,21,4.62,84.9
+SUP-0172,Vertex Holdings 2,Mexico,4.5,17,0.38,82.6
+SUP-0173,Atlas Textiles 4,United States,4.1,11,0.09,95.5
+SUP-0174,Vertex Fabrication,Bangladesh,4.0,7,0.58,92.2
+SUP-0175,Crown Holdings 2,Taiwan,4.0,9,3.06,90.5
+SUP-0176,Sterling Supply Co,Poland,4.2,18,8.04,95.9
+SUP-0177,Summit Goods 3,Turkey,3.4,14,4.34,67.3
+SUP-0178,Falcon Manufacturing 2,Mexico,2.8,7,0.74,75.6
+SUP-0179,Summit Components 3,Bangladesh,3.3,11,0.09,75.1
+SUP-0180,Orion Supply Co,Poland,2.6,10,0.71,74.8
+SUP-0181,Crown Materials 2,Indonesia,3.3,43,10.4,77.4
+SUP-0182,,Brazil,4.5,33,0.26,87.9
+SUP-0183,Pioneer Exports 2,Indonesia,3.4,22,0.13,78.5
+SUP-0184,,India,3.6,10,2.26,85.9
+SUP-0185,Crown Industries,Mexico,3.6,12,1.71,79.6
+SUP-0186,Atlas Fabrication,Brazil,3.3,18,0.68,84.7
+SUP-0187,Nova Materials,Vietnam,4.5,12,0.47,91.6
+SUP-0188,Falcon Components 2,Brazil,4.3,11,0.1,93.6
+SUP-0189,,Thailand,3.2,11,0.98,84.7
+SUP-0190,Pioneer Textiles 3,China,4.9,22,0.64,92.0
+SUP-0191,Global Components 3,Indonesia,4.3,21,1.37,97.7
+SUP-0192,Nova Industries 4,Indonesia,4.2,16,1.77,89.5
+SUP-0193,Vertex Fabrication 2,Poland,4.0,14,1.06,88.1
+SUP-0194,Pioneer Holdings,South Korea,3.8,9,1.32,89.9
+SUP-0195,Vertex Trading 3,Bangladesh,3.6,19,1.48,83.2
+SUP-0196,Pioneer Textiles 4,Brazil,4.0,22,4.15,88.1
+SUP-0197,Prime Manufacturing 2,Taiwan,3.5,19,2.46,83.8
+SUP-0198,Orion Industries 2,Thailand,3.4,28,4.31,73.1
+SUP-0199,Vertex Components,India,3.5,20,0.05,92.4
+SUP-0200,Orion Holdings 3,Turkey,3.8,13,9.95,96.7
+SUP-0201,Unity Manufacturing 3,Turkey,2.9,6,4.12,72.1
+SUP-0202,Pioneer Industries 2,Indonesia,4.2,19,0.41,85.2
+SUP-0203,Sterling Trading,Brazil,4.2,16,1.32,79.4
+SUP-0204,Atlas Exports,Poland,3.4,17,0.55,83.7
+SUP-0205,Horizon Trading,Poland,3.0,31,1.6,81.1
+SUP-0206,Falcon Holdings,Taiwan,4.1,22,1.38,90.5
+SUP-0207,Atlas Goods 2,Italy,3.9,23,1.05,82.1
+SUP-0208,Cascade Exports 4,Indonesia,4.9,17,0.52,85.6
+SUP-0209,Cascade Textiles 2,South Korea,4.3,13,0.73,86.7
+SUP-0210,Falcon Trading 2,Indonesia,2.3,8,6.29,78.0
+SUP-0211,Summit Components 5,Italy,3.2,17,9.93,80.6
+SUP-0212,Crown Logistics 2,Thailand,3.1,32,0.02,85.1
+SUP-0213,Orion Exports 4,Indonesia,3.9,6,0.69,80.2
+SUP-0214,Crown Components 2,Mexico,3.6,36,0.42,87.6
+SUP-0215,Unity Industries 2,South Korea,4.6,25,2.48,92.2
+SUP-0216,Summit Components 6,Mexico,3.4,23,3.4,84.6
+SUP-0217,,Taiwan,4.4,13,2.48,98.1
+SUP-0218,Atlas Industries,India,3.9,39,2.1,82.1
+SUP-0219,Sterling Components,Bangladesh,3.4,14,0.52,85.3
+SUP-0220,Prime Textiles 3,South Korea,3.5,17,2.54,95.9

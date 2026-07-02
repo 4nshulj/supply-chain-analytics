@@ -1,0 +1,651 @@
+warehouse_id,region,city,date,orders_processed,avg_processing_time_hours,utilization_percentage,error_rate_percentage,labor_hours
+WH-01,North America,Dallas,2025-02-20,726,7.52,84.1,1.99,125.9
+WH-01,North America,Dallas,2025/03/29,640,8.93,89.0,0.78,119.6
+WH-01,North America,Dallas,2025-05-13,770,7.88,85.3,1.56,141.2
+WH-01,North America,Dallas,2025/05/14,666,9.23,98.1,0.62,115.8
+WH-01,North America,Dallas,2025-06-21,450,9.2,83.6,0.83,80.3
+WH-01,North America,Dallas,21-Jul-2025,593,8.74,73.3,1.23,88.6
+WH-01,North America,Dallas,2025/07/24,347,6.24,86.6,1.06,52.6
+WH-01,North America,Dallas,Aug 04 2025,736,6.97,79.0,0.0,102.2
+WH-01,North America,Dallas,06-Sep-2025,401,10.51,86.4,0.73,57.8
+WH-01,North America,Dallas,2025-11-29,234,8.62,90.9,1.53,46.6
+WH-01,North America,Dallas,31-Dec-2025,816,10.07,84.0,1.97,144.0
+WH-01,North America,Dallas,Jan 23 2026,404,9.02,82.1,3.38,40.0
+WH-01,North America,Dallas,2026/02/26,539,7.93,81.3,1.46,56.4
+WH-01,North America,Dallas,03-Mar-2026,475,8.05,95.1,1.73,79.2
+WH-01,North America,Dallas,2026-03-25,324,6.29,89.5,2.32,48.9
+WH-01,North America,Dallas,2026/04/04,674,9.15,81.5,0.0,126.8
+WH-01,North America,Dallas,30-Apr-2026,274,10.41,87.7,2.95,31.8
+WH-01,North America,Dallas,22-May-2026,571,8.53,89.3,2.23,117.3
+WH-01,North America,Dallas,2026/05/30,471,8.99,91.5,3.25,87.9
+WH-02,Asia Pacific,Mumbai,Apr 09 2025,426,1.81,95.5,4.66,100.9
+WH-02,Asia Pacific,Mumbai,Nov 18 2025,119,5.38,81.1,4.87,23.2
+WH-02,Asia Pacific,Mumbai,11-Jan-2026,605,2.91,79.1,2.95,57.4
+WH-02,Asia Pacific,Mumbai,2026/01/31,480,3.19,87.0,2.27,91.5
+WH-02,Asia Pacific,Mumbai,2026-05-15,710,2.36,85.7,1.23,99.7
+WH-02,Asia Pacific,Mumbai,2026/05/19,425,2.6,79.0,3.12,73.8
+WH-03,Europe,Rotterdam,2025/03/30,812,9.08,84.3,4.45,134.1
+WH-03,Europe,Rotterdam,Mar 31 2025,608,7.24,93.0,1.04,144.1
+WH-03,Europe,Rotterdam,May 13 2025,350,9.12,95.1,0.0,66.2
+WH-03,Europe,Rotterdam,Jun 20 2025,524,7.66,99.8,3.23,70.2
+WH-03,Europe,Rotterdam,26-Jun-2025,20,8.87,90.1,2.7,10.0
+WH-03,Europe,Rotterdam,10-Jul-2025,502,7.75,90.6,3.36,114.4
+WH-03,Europe,Rotterdam,16-Jul-2025,262,7.36,89.3,0.94,59.7
+WH-03,Europe,Rotterdam,2025/08/31,977,10.93,91.4,2.68,138.8
+WH-03,Europe,Rotterdam,21-Nov-2025,487,6.03,100.0,2.41,122.5
+WH-03,Europe,Rotterdam,Jan 07 2026,553,7.91,100.0,3.95,80.4
+WH-03,Europe,Rotterdam,Jan 28 2026,676,10.73,83.6,3.85,110.8
+WH-03,Europe,Rotterdam,2026-01-30,514,8.24,84.5,1.94,79.2
+WH-03,Europe,Rotterdam,2026/02/17,454,10.07,92.8,4.68,63.7
+WH-03,Europe,Rotterdam,03-Mar-2026,371,9.4,98.5,1.64,45.9
+WH-04,North America,Columbus,2025-01-15,552,3.24,74.7,0.1,84.7
+WH-04,North America,Columbus,2025-02-19,320,3.76,81.3,1.93,40.7
+WH-04,North America,Columbus,2025-04-19,608,4.9,96.5,3.27,74.4
+WH-04,North America,Columbus,2025/07/28,374,5.09,95.8,1.57,45.6
+WH-04,North America,Columbus,2025-11-24,781,3.9,95.8,2.42,108.8
+WH-04,North America,Columbus,19-Feb-2026,618,3.43,89.8,1.65,134.9
+WH-04,North America,Columbus,2026-03-21,418,5.63,91.6,3.45,54.4
+WH-05,Middle East & Africa,Dubai,29-Jan-2025,323,10.38,60.1,4.46,47.6
+WH-05,Middle East & Africa,Dubai,2025/02/11,324,7.14,66.9,1.75,46.9
+WH-05,Middle East & Africa,Dubai,23-Feb-2025,99,9.12,92.6,6.21,11.6
+WH-05,Middle East & Africa,Dubai,2025/03/08,390,7.01,79.4,4.64,55.6
+WH-05,Middle East & Africa,Dubai,Mar 21 2025,650,7.32,66.4,4.56,84.9
+WH-05,Middle East & Africa,Dubai,2025-04-02,409,7.31,70.0,3.56,47.9
+WH-05,Middle East & Africa,Dubai,23-Jul-2025,583,7.96,67.5,5.37,86.0
+WH-05,Middle East & Africa,Dubai,2025-07-24,379,9.27,72.6,1.26,36.6
+WH-05,Middle East & Africa,Dubai,2025-08-14,409,9.38,71.4,5.25,73.6
+WH-05,Middle East & Africa,Dubai,16-Aug-2025,529,8.76,74.8,4.82,99.0
+WH-05,Middle East & Africa,Dubai,2025-08-27,475,8.18,63.9,7.26,45.1
+WH-05,Middle East & Africa,Dubai,2025-12-21,387,7.31,71.6,3.28,61.5
+WH-05,Middle East & Africa,Dubai,2026-01-17,499,8.83,69.4,4.39,72.7
+WH-05,Middle East & Africa,Dubai,06-Apr-2026,413,8.66,59.2,5.2,51.3
+WH-06,Middle East & Africa,Riyadh,May 07 2025,610,2.94,89.7,0.7,94.0
+WH-06,Middle East & Africa,Riyadh,2025-05-10,221,3.83,75.5,4.38,42.6
+WH-06,Middle East & Africa,Riyadh,2025/05/23,229,3.14,69.7,1.3,24.2
+WH-06,Middle East & Africa,Riyadh,2025-06-02,528,3.42,87.1,3.51,99.2
+WH-06,Middle East & Africa,Riyadh,08-Jun-2025,593,3.2,80.0,3.29,60.5
+WH-06,Middle East & Africa,Riyadh,2025/06/23,472,1.19,79.9,2.08,49.9
+WH-06,Middle East & Africa,Riyadh,2025-09-04,372,2.66,88.6,2.45,55.5
+WH-06,Middle East & Africa,Riyadh,2025/10/04,257,2.01,75.6,0.47,27.1
+WH-06,Middle East & Africa,Riyadh,Jan 08 2026,659,3.09,76.2,2.8,108.6
+WH-06,Middle East & Africa,Riyadh,23-Feb-2026,617,2.97,72.5,1.77,106.7
+WH-06,Middle East & Africa,Riyadh,May 14 2026,699,1.94,82.3,3.62,68.6
+WH-07,North America,Dallas,Mar 31 2025,242,6.65,59.1,5.73,30.6
+WH-07,North America,Dallas,2025-05-30,20,8.12,76.1,3.63,10.0
+WH-07,North America,Dallas,2025-09-27,591,6.35,62.7,3.63,62.1
+WH-07,North America,Dallas,Nov 04 2025,525,6.8,56.4,4.56,43.2
+WH-07,North America,Dallas,05-Mar-2026,234,6.08,65.3,4.62,32.6
+WH-08,North America,Chicago,Feb 14 2025,544,7.88,67.8,1.51,53.9
+WH-08,North America,Chicago,27-Feb-2025,549,10.49,70.1,1.3,68.8
+WH-08,North America,Chicago,2025/05/15,20,8.81,71.6,1.18,10.0
+WH-08,North America,Chicago,23-Jun-2025,534,8.23,71.9,0.73,96.4
+WH-08,North America,Chicago,2025-07-26,393,11.34,65.5,0.77,54.3
+WH-08,North America,Chicago,Jul 28 2025,20,9.38,81.3,0.26,10.0
+WH-08,North America,Chicago,05-Aug-2025,744,7.65,55.0,0.0,94.3
+WH-08,North America,Chicago,2025-10-07,502,8.87,54.5,1.5,38.7
+WH-08,North America,Chicago,Feb 25 2026,584,9.82,69.9,1.07,62.0
+WH-08,North America,Chicago,2026-03-05,417,7.1,55.0,3.37,52.5
+WH-08,North America,Chicago,Apr 19 2026,406,8.66,59.9,0.6,45.6
+WH-08,North America,Chicago,10-May-2026,154,8.46,59.8,0.0,14.8
+WH-09,Europe,Madrid,Jan 25 2025,634,3.28,84.7,2.83,113.0
+WH-09,Europe,Madrid,Feb 06 2025,445,2.91,81.6,6.89,90.4
+WH-09,Europe,Madrid,2025-03-31,256,2.9,77.2,1.34,35.2
+WH-09,Europe,Madrid,2025/05/10,570,2.15,95.9,4.88,71.3
+WH-09,Europe,Madrid,Jun 03 2025,510,4.08,79.5,4.86,96.1
+WH-09,Europe,Madrid,2025-10-09,354,3.37,92.7,3.38,66.8
+WH-09,Europe,Madrid,Oct 23 2025,670,2.44,94.6,1.82,153.9
+WH-09,Europe,Madrid,2025-11-13,399,2.86,80.4,2.64,50.3
+WH-09,Europe,Madrid,2026/01/06,240,0.5,62.1,4.99,36.5
+WH-09,Europe,Madrid,2026/01/17,430,2.71,91.9,5.71,49.9
+WH-09,Europe,Madrid,2026/05/31,573,3.91,71.4,2.1,66.0
+WH-10,Middle East & Africa,Dubai,2025/01/07,643,7.83,46.2,1.75,57.5
+WH-10,Middle East & Africa,Dubai,23-Feb-2025,20,6.84,62.7,0.0,10.0
+WH-10,Middle East & Africa,Dubai,2025/05/05,380,4.54,67.2,2.23,47.0
+WH-10,Middle East & Africa,Dubai,2025-08-16,412,5.93,80.4,1.42,61.6
+WH-10,Middle East & Africa,Dubai,2025-09-26,675,4.97,53.8,4.93,41.9
+WH-10,Middle East & Africa,Dubai,2025/10/25,379,6.28,72.4,3.16,51.6
+WH-10,Middle East & Africa,Dubai,Mar 04 2026,351,7.92,65.5,1.33,35.5
+WH-10,Middle East & Africa,Dubai,May 22 2026,149,5.84,60.4,1.33,16.8
+WH-11,Middle East & Africa,Johannesburg,02-Feb-2025,84,6.35,77.2,5.69,10.1
+WH-11,Middle East & Africa,Johannesburg,Apr 23 2025,335,5.6,55.8,5.66,39.2
+WH-11,Middle East & Africa,Johannesburg,2025/05/06,356,7.16,52.4,7.19,29.6
+WH-11,Middle East & Africa,Johannesburg,25-May-2025,591,6.19,83.6,4.13,116.1
+WH-11,Middle East & Africa,Johannesburg,Oct 29 2025,364,7.34,67.4,4.37,45.8
+WH-11,Middle East & Africa,Johannesburg,2025-11-26,552,8.7,71.3,4.7,57.4
+WH-11,Middle East & Africa,Johannesburg,2025-12-18,611,7.65,76.1,7.08,104.9
+WH-11,Middle East & Africa,Johannesburg,22-Dec-2025,423,7.5,61.7,5.9,29.8
+WH-11,Middle East & Africa,Johannesburg,2025-12-28,501,5.45,77.6,6.99,93.4
+WH-11,Middle East & Africa,Johannesburg,2026/01/28,409,6.89,62.8,5.31,57.2
+WH-11,Middle East & Africa,Johannesburg,Apr 18 2026,687,7.62,73.0,3.48,126.5
+WH-11,Middle East & Africa,Johannesburg,Apr 21 2026,367,5.2,77.3,5.61,37.4
+WH-12,Middle East & Africa,Riyadh,Jan 16 2025,728,2.25,78.2,0.0,99.3
+WH-12,Middle East & Africa,Riyadh,2025-02-05,553,4.14,89.1,4.39,84.8
+WH-12,Middle East & Africa,Riyadh,2025/03/21,313,1.65,99.3,3.01,38.5
+WH-12,Middle East & Africa,Riyadh,2025-06-12,238,2.39,71.3,2.4,31.5
+WH-12,Middle East & Africa,Riyadh,2025/07/22,151,2.63,69.3,0.32,25.2
+WH-12,Middle East & Africa,Riyadh,2025/08/21,631,4.07,95.2,3.3,142.4
+WH-12,Middle East & Africa,Riyadh,2025-09-11,506,3.97,85.6,3.15,85.6
+WH-12,Middle East & Africa,Riyadh,2025-09-25,383,3.86,77.3,2.74,44.0
+WH-12,Middle East & Africa,Riyadh,Oct 31 2025,795,3.11,70.3,2.3,141.4
+WH-12,Middle East & Africa,Riyadh,03-Nov-2025,583,3.73,84.4,1.37,66.3
+WH-12,Middle East & Africa,Riyadh,Dec 16 2025,423,2.06,66.2,3.58,41.7
+WH-12,Middle East & Africa,Riyadh,2025/12/19,309,1.78,87.6,1.74,56.0
+WH-12,Middle East & Africa,Riyadh,2025-12-21,178,1.59,87.5,2.39,18.9
+WH-12,Middle East & Africa,Riyadh,2026-01-17,228,3.48,82.2,2.41,32.9
+WH-13,Europe,Milan,2025/02/19,322,4.44,90.2,1.88,52.8
+WH-13,Europe,Milan,Apr 06 2025,449,7.26,88.3,2.48,54.2
+WH-13,Europe,Milan,2025-04-19,274,7.29,88.5,7.6,46.7
+WH-13,Europe,Milan,2025/05/24,736,5.63,94.6,2.98,137.1
+WH-13,Europe,Milan,Dec 02 2025,609,6.51,91.3,4.89,109.6
+WH-13,Europe,Milan,2026/01/13,434,5.48,74.3,4.21,56.8
+WH-13,Europe,Milan,2026-02-15,347,5.08,86.2,5.35,61.9
+WH-13,Europe,Milan,2026-03-14,144,6.36,91.3,5.12,22.9
+WH-13,Europe,Milan,2026/03/26,252,6.09,73.2,3.11,37.2
+WH-13,Europe,Milan,2026-04-27,504,4.81,77.8,4.64,63.8
+WH-14,Middle East & Africa,Cairo,Jan 25 2025,617,9.79,53.2,0.0,81.9
+WH-14,Middle East & Africa,Cairo,2025/01/26,379,9.59,77.9,1.1,59.0
+WH-14,Middle East & Africa,Cairo,Feb 23 2025,742,9.96,47.2,0.0,81.4
+WH-14,Middle East & Africa,Cairo,2025-04-03,731,10.53,53.9,0.0,77.1
+WH-14,Middle East & Africa,Cairo,10-Apr-2025,449,11.7,58.3,0.0,64.8
+WH-14,Middle East & Africa,Cairo,Jul 01 2025,541,10.5,56.4,1.4,60.4
+WH-14,Middle East & Africa,Cairo,2025/07/15,867,10.9,66.7,2.46,69.7
+WH-14,Middle East & Africa,Cairo,2025/12/14,334,10.95,53.3,0.0,36.0
+WH-14,Middle East & Africa,Cairo,2025-12-17,463,10.26,48.3,1.31,28.6
+WH-14,Middle East & Africa,Cairo,2026-01-11,217,9.43,63.1,2.11,16.1
+WH-15,North America,Phoenix,Jan 13 2025,320,6.12,69.6,0.74,27.0
+WH-15,North America,Phoenix,2025-04-13,597,5.57,79.1,1.29,89.3
+WH-15,North America,Phoenix,Apr 18 2025,457,7.79,74.0,1.14,39.5
+WH-15,North America,Phoenix,06-Jun-2025,555,6.46,64.0,1.29,61.8
+WH-15,North America,Phoenix,Jun 17 2025,395,7.8,83.9,2.3,43.1
+WH-15,North America,Phoenix,2025-07-03,410,9.87,72.8,4.5,72.1
+WH-15,North America,Phoenix,Jul 27 2025,485,7.52,76.9,2.89,81.4
+WH-15,North America,Phoenix,2025-08-08,136,7.17,65.8,0.19,18.5
+WH-15,North America,Phoenix,Aug 18 2025,373,8.8,88.8,1.52,42.1
+WH-15,North America,Phoenix,Oct 26 2025,582,7.83,83.2,2.93,85.5
+WH-15,North America,Phoenix,Nov 29 2025,636,6.27,72.6,0.0,56.2
+WH-15,North America,Phoenix,26-Dec-2025,492,7.53,76.9,2.52,89.8
+WH-15,North America,Phoenix,15-Feb-2026,696,6.96,80.0,4.04,63.8
+WH-15,North America,Phoenix,2026-03-23,597,8.46,71.0,3.14,106.4
+WH-15,North America,Phoenix,2026/04/01,512,7.88,90.4,1.82,103.7
+WH-16,Europe,Lyon,2025-01-22,603,4.24,62.5,4.58,59.2
+WH-16,Europe,Lyon,Apr 05 2025,612,2.11,52.7,5.43,54.9
+WH-16,Europe,Lyon,2025-05-17,541,3.36,67.7,6.55,93.1
+WH-16,Europe,Lyon,2025-05-24,417,1.12,49.1,3.96,48.6
+WH-16,Europe,Lyon,2025-06-21,383,2.19,63.2,4.36,29.8
+WH-16,Europe,Lyon,2025-09-16,245,0.5,72.4,6.25,21.5
+WH-16,Europe,Lyon,31-Oct-2025,621,2.19,55.2,6.34,86.7
+WH-16,Europe,Lyon,Feb 17 2026,195,3.12,56.1,5.44,19.9
+WH-16,Europe,Lyon,May 25 2026,480,1.76,61.6,6.6,49.9
+WH-17,Latin America,Bogota,2025-01-04,148,2.31,72.4,5.01,21.4
+WH-17,Latin America,Bogota,2025-05-09,726,3.48,72.0,2.21,75.0
+WH-17,Latin America,Bogota,2025-07-04,734,3.64,65.4,1.85,121.5
+WH-17,Latin America,Bogota,2025/07/09,611,2.98,73.4,1.83,56.3
+WH-17,Latin America,Bogota,2025-08-01,445,2.36,56.3,1.31,39.4
+WH-17,Latin America,Bogota,24-Nov-2025,389,2.01,49.1,0.34,34.5
+WH-17,Latin America,Bogota,2025-12-20,752,3.16,64.1,0.67,62.0
+WH-17,Latin America,Bogota,11-Apr-2026,551,5.69,62.7,0.67,79.5
+WH-17,Latin America,Bogota,2026-05-22,200,2.91,75.0,1.1,27.8
+WH-17,Latin America,Bogota,2026-05-27,629,4.43,80.9,0.15,110.5
+WH-18,Asia Pacific,Mumbai,2025/01/23,564,4.26,75.5,2.9,97.0
+WH-18,Asia Pacific,Mumbai,Jan 24 2025,523,3.59,55.2,3.28,55.3
+WH-18,Asia Pacific,Mumbai,Apr 07 2025,448,6.53,73.0,3.74,61.2
+WH-18,Asia Pacific,Mumbai,2025-04-17,413,5.12,49.2,5.38,51.7
+WH-18,Asia Pacific,Mumbai,02-May-2025,421,5.01,55.2,5.45,27.3
+WH-18,Asia Pacific,Mumbai,13-May-2025,513,5.22,62.0,1.23,75.2
+WH-18,Asia Pacific,Mumbai,2025-10-19,437,5.06,48.9,4.64,52.8
+WH-18,Asia Pacific,Mumbai,2025-11-12,431,4.31,59.8,3.61,51.6
+WH-18,Asia Pacific,Mumbai,May 13 2026,771,3.76,53.1,1.58,92.6
+WH-19,Europe,Manchester,2025/01/11,353,2.43,80.5,2.88,70.6
+WH-19,Europe,Manchester,Jan 13 2025,256,3.34,87.2,2.19,34.7
+WH-19,Europe,Manchester,Jan 22 2025,512,1.61,93.0,2.18,62.2
+WH-19,Europe,Manchester,Jan 24 2025,370,1.78,79.2,1.63,75.1
+WH-19,Europe,Manchester,2025/09/30,104,1.9,86.3,0.58,20.8
+WH-19,Europe,Manchester,10-Nov-2025,798,1.79,91.9,2.03,138.1
+WH-19,Europe,Manchester,2026-05-13,290,3.31,73.4,1.35,38.1
+WH-20,Asia Pacific,Shenzhen,Feb 08 2025,725,6.76,86.3,4.67,118.5
+WH-20,Asia Pacific,Shenzhen,2025/03/02,382,6.03,89.8,4.04,77.5
+WH-20,Asia Pacific,Shenzhen,Mar 22 2025,580,3.67,84.3,2.99,110.2
+WH-20,Asia Pacific,Shenzhen,2025-04-17,657,6.58,86.5,5.18,114.5
+WH-20,Asia Pacific,Shenzhen,03-May-2025,20,5.62,97.0,4.75,10.0
+WH-20,Asia Pacific,Shenzhen,2025-06-09,474,8.02,93.0,7.71,105.8
+WH-20,Asia Pacific,Shenzhen,Jun 17 2025,559,4.89,100.0,6.0,98.5
+WH-20,Asia Pacific,Shenzhen,Sep 13 2025,438,6.74,96.8,2.88,66.6
+WH-20,Asia Pacific,Shenzhen,2025-12-03,449,4.51,82.4,4.58,44.6
+WH-20,Asia Pacific,Shenzhen,2025-12-22,509,6.73,80.8,2.51,64.9
+WH-20,Asia Pacific,Shenzhen,2026-04-02,464,6.83,97.4,6.04,61.0
+WH-20,Asia Pacific,Shenzhen,May 19 2026,726,5.34,83.4,3.8,90.2
+WH-21,North America,Toronto,2025-01-26,444,5.09,61.6,2.74,51.6
+WH-21,North America,Toronto,2025/02/19,273,9.17,78.9,2.62,43.5
+WH-21,North America,Toronto,Mar 15 2025,511,4.4,61.4,3.67,53.0
+WH-21,North America,Toronto,2025/05/01,516,4.96,67.0,3.95,75.3
+WH-21,North America,Toronto,2025-05-18,150,7.88,65.7,4.27,20.7
+WH-21,North America,Toronto,2025-05-28,598,6.23,79.7,3.5,77.4
+WH-21,North America,Toronto,2025-06-07,531,6.58,67.5,1.34,79.2
+WH-21,North America,Toronto,08-Jul-2025,328,4.44,84.5,0.79,67.3
+WH-21,North America,Toronto,2025-07-14,523,7.06,72.1,0.4,67.2
+WH-21,North America,Toronto,2025-07-27,417,4.95,73.7,1.48,70.4
+WH-21,North America,Toronto,2025-10-12,446,3.95,66.8,0.31,69.6
+WH-21,North America,Toronto,Nov 20 2025,150,7.76,70.7,0.55,23.9
+WH-21,North America,Toronto,Nov 26 2025,804,5.74,85.5,3.3,137.2
+WH-21,North America,Toronto,19-Dec-2025,330,5.56,61.2,4.94,23.8
+WH-21,North America,Toronto,2025-12-31,445,6.09,66.5,3.35,37.8
+WH-21,North America,Toronto,2026-03-18,265,5.19,81.4,3.31,25.7
+WH-21,North America,Toronto,2026-05-27,80,7.78,71.9,2.88,10.0
+WH-22,North America,Atlanta,2025-01-22,593,7.09,95.2,5.89,83.7
+WH-22,North America,Atlanta,2025-02-03,389,9.28,88.8,7.31,69.6
+WH-22,North America,Atlanta,2025-02-12,217,8.79,98.6,4.41,44.4
+WH-22,North America,Atlanta,2025-02-19,425,6.57,93.3,4.4,76.7
+WH-22,North America,Atlanta,May 18 2025,386,8.35,90.0,2.56,69.9
+WH-22,North America,Atlanta,Jun 22 2025,572,9.22,100.0,6.93,67.6
+WH-22,North America,Atlanta,26-Jul-2025,267,7.67,100.0,1.21,51.8
+WH-22,North America,Atlanta,02-Aug-2025,446,9.09,83.1,5.84,71.7
+WH-22,North America,Atlanta,2025/08/29,358,8.1,100.0,3.36,67.9
+WH-22,North America,Atlanta,2026/04/07,263,5.45,88.6,3.52,35.0
+WH-23,Asia Pacific,Jakarta,2025-03-07,380,7.25,82.3,2.47,40.4
+WH-23,Asia Pacific,Jakarta,2025/04/18,528,7.26,72.1,1.44,69.6
+WH-23,Asia Pacific,Jakarta,2025-05-11,366,6.92,100.0,2.18,47.4
+WH-23,Asia Pacific,Jakarta,2025/07/21,226,7.14,71.5,5.22,20.8
+WH-23,Asia Pacific,Jakarta,2025/08/02,263,7.36,83.4,4.77,41.7
+WH-23,Asia Pacific,Jakarta,Aug 03 2025,563,5.49,83.9,0.77,82.3
+WH-23,Asia Pacific,Jakarta,04-Sep-2025,263,5.46,100.0,1.56,58.8
+WH-23,Asia Pacific,Jakarta,Oct 18 2025,570,5.2,81.2,2.81,73.8
+WH-23,Asia Pacific,Jakarta,Nov 03 2025,658,5.63,82.3,2.52,62.5
+WH-23,Asia Pacific,Jakarta,2025-12-20,583,7.67,87.4,1.71,114.0
+WH-23,Asia Pacific,Jakarta,2025-12-21,759,4.88,83.1,5.12,137.3
+WH-23,Asia Pacific,Jakarta,Jan 09 2026,462,3.31,72.4,3.29,54.5
+WH-23,Asia Pacific,Jakarta,19-Mar-2026,497,8.58,83.2,4.57,56.1
+WH-23,Asia Pacific,Jakarta,May 27 2026,254,6.72,78.1,2.27,26.2
+WH-24,Asia Pacific,Busan,2025-01-30,587,2.56,69.9,7.12,101.3
+WH-24,Asia Pacific,Busan,Feb 18 2025,519,4.53,94.0,5.35,111.7
+WH-24,Asia Pacific,Busan,24-Feb-2025,443,2.38,62.5,8.05,42.8
+WH-24,Asia Pacific,Busan,Mar 07 2025,359,1.57,63.7,7.53,53.7
+WH-24,Asia Pacific,Busan,May 01 2025,271,1.61,79.8,3.63,54.1
+WH-24,Asia Pacific,Busan,2025-07-02,424,3.47,66.9,4.87,58.2
+WH-24,Asia Pacific,Busan,2025/07/13,568,2.6,78.9,5.63,102.7
+WH-24,Asia Pacific,Busan,2025/08/03,602,1.34,78.2,3.05,115.4
+WH-24,Asia Pacific,Busan,2025-08-22,313,2.78,68.4,2.93,41.2
+WH-24,Asia Pacific,Busan,18-Oct-2025,620,1.71,69.2,5.15,73.8
+WH-24,Asia Pacific,Busan,2025/11/19,287,4.59,70.2,8.25,26.3
+WH-24,Asia Pacific,Busan,20-Jan-2026,261,0.65,83.1,6.91,49.5
+WH-24,Asia Pacific,Busan,07-Mar-2026,660,0.56,70.4,5.96,106.1
+WH-24,Asia Pacific,Busan,2026/03/09,554,0.88,79.7,7.07,112.1
+WH-24,Asia Pacific,Busan,2026/03/21,362,2.99,78.4,9.35,44.8
+WH-24,Asia Pacific,Busan,2026-04-05,458,2.14,75.3,6.32,48.4
+WH-24,Asia Pacific,Busan,2026-04-16,647,2.88,75.8,4.88,107.7
+WH-24,Asia Pacific,Busan,2026-04-30,747,3.82,72.3,4.16,63.4
+WH-24,Asia Pacific,Busan,2026/05/02,327,3.93,96.3,6.75,63.4
+WH-24,Asia Pacific,Busan,2026/05/19,537,1.86,81.9,5.91,64.8
+WH-25,North America,Columbus,May 29 2025,577,4.55,84.8,0.0,107.8
+WH-25,North America,Columbus,2025/06/09,20,4.08,80.6,1.44,10.0
+WH-25,North America,Columbus,Jun 22 2025,653,4.17,92.1,2.04,91.4
+WH-25,North America,Columbus,2025-07-12,618,2.98,77.6,1.19,75.5
+WH-25,North America,Columbus,2025-08-23,461,4.18,84.0,1.01,47.7
+WH-25,North America,Columbus,2025-12-25,388,5.74,82.2,2.12,64.4
+WH-25,North America,Columbus,2026-01-10,319,0.5,78.6,1.66,53.2
+WH-25,North America,Columbus,Mar 18 2026,706,1.9,74.2,0.43,96.4
+WH-25,North America,Columbus,05-Apr-2026,367,0.5,73.7,2.62,45.8
+WH-25,North America,Columbus,09-Apr-2026,482,1.85,70.6,2.05,73.5
+WH-25,North America,Columbus,2026-05-29,432,2.89,84.7,0.98,58.1
+WH-26,Latin America,Lima,11-Mar-2025,475,4.31,58.4,2.4,54.4
+WH-26,Latin America,Lima,2025/03/13,508,6.23,62.6,4.01,76.7
+WH-26,Latin America,Lima,2025-05-25,616,4.69,65.4,0.0,69.8
+WH-26,Latin America,Lima,2025/05/29,591,5.61,64.0,3.56,52.4
+WH-26,Latin America,Lima,Jul 21 2025,243,6.91,48.1,2.54,29.0
+WH-26,Latin America,Lima,2025/08/03,564,3.78,64.7,0.68,78.8
+WH-26,Latin America,Lima,2025/09/18,435,7.04,58.9,0.0,54.8
+WH-26,Latin America,Lima,2025-09-30,471,5.62,68.4,5.47,66.7
+WH-26,Latin America,Lima,2025-10-01,491,7.25,57.1,3.32,68.1
+WH-26,Latin America,Lima,2025-10-03,121,5.22,48.1,3.72,10.0
+WH-26,Latin America,Lima,2025-10-07,522,6.31,65.6,5.39,59.1
+WH-26,Latin America,Lima,17-Oct-2025,464,6.11,63.0,2.77,50.9
+WH-26,Latin America,Lima,2025/10/21,506,3.38,65.1,2.89,73.8
+WH-26,Latin America,Lima,2026-02-27,318,4.98,65.7,4.33,51.1
+WH-26,Latin America,Lima,Mar 09 2026,285,4.43,65.3,0.51,30.1
+WH-26,Latin America,Lima,Mar 25 2026,536,7.16,55.1,3.79,60.8
+WH-26,Latin America,Lima,Apr 22 2026,159,6.7,56.9,5.07,14.5
+WH-26,Latin America,Lima,2026-05-09,726,5.61,57.7,1.41,60.5
+WH-26,Latin America,Lima,2026-05-19,140,5.37,54.2,2.07,19.4
+WH-27,North America,Toronto,2025/01/10,676,6.98,76.8,6.44,105.2
+WH-27,North America,Toronto,2025-01-16,427,8.88,65.2,5.95,65.2
+WH-27,North America,Toronto,26-Feb-2025,277,10.23,86.6,4.46,29.4
+WH-27,North America,Toronto,2025-03-14,286,8.5,65.6,4.41,30.4
+WH-27,North America,Toronto,27-May-2025,566,8.63,74.5,3.0,80.8
+WH-27,North America,Toronto,Jul 23 2025,412,9.2,65.0,3.91,66.2
+WH-27,North America,Toronto,2025-08-30,346,7.15,64.3,0.99,46.2
+WH-27,North America,Toronto,19-Oct-2025,556,7.34,69.2,4.01,48.3
+WH-27,North America,Toronto,2025-11-15,402,6.71,59.2,2.16,30.3
+WH-27,North America,Toronto,Nov 20 2025,244,6.48,61.6,4.68,34.9
+WH-27,North America,Toronto,2025/12/06,182,8.64,71.5,2.41,29.0
+WH-27,North America,Toronto,2026/01/16,475,8.46,78.1,3.97,67.0
+WH-27,North America,Toronto,2026/04/25,429,6.67,67.8,4.84,69.7
+WH-27,North America,Toronto,2026/05/06,332,8.19,54.9,4.63,44.7
+WH-28,North America,Memphis,2025-01-08,20,9.0,100.0,0.0,10.0
+WH-28,North America,Memphis,2025-04-01,530,8.87,99.5,0.0,70.7
+WH-28,North America,Memphis,May 02 2025,404,6.92,100.0,0.8,57.3
+WH-28,North America,Memphis,Jun 21 2025,397,9.05,89.5,0.74,82.5
+WH-28,North America,Memphis,2025-07-07,202,9.73,100.0,2.87,40.2
+WH-28,North America,Memphis,2025-07-26,737,7.71,84.1,0.0,73.2
+WH-28,North America,Memphis,Aug 20 2025,408,6.24,96.2,2.1,52.8
+WH-28,North America,Memphis,25-Oct-2025,629,9.87,89.7,1.02,64.9
+WH-28,North America,Memphis,2025-11-01,585,7.67,87.1,0.14,106.6
+WH-28,North America,Memphis,Jan 24 2026,282,8.76,96.9,0.0,31.9
+WH-28,North America,Memphis,2026-04-07,207,9.51,87.4,1.78,25.7
+WH-28,North America,Memphis,2026-05-01,265,8.93,92.3,4.01,45.9
+WH-29,Asia Pacific,Busan,Apr 16 2025,452,6.32,59.6,5.84,42.7
+WH-29,Asia Pacific,Busan,17-Apr-2025,557,6.47,53.4,8.72,74.9
+WH-29,Asia Pacific,Busan,May 29 2025,255,7.01,71.2,6.85,40.5
+WH-29,Asia Pacific,Busan,Jun 05 2025,429,6.82,59.6,6.27,38.3
+WH-29,Asia Pacific,Busan,15-Jun-2025,574,5.02,60.4,6.13,52.4
+WH-29,Asia Pacific,Busan,2025/06/24,291,3.99,52.6,6.95,22.5
+WH-29,Asia Pacific,Busan,2025/07/22,362,4.58,62.1,5.09,43.8
+WH-29,Asia Pacific,Busan,2025-09-16,374,4.6,63.7,5.68,53.1
+WH-29,Asia Pacific,Busan,Sep 24 2025,513,2.28,74.2,6.02,53.8
+WH-29,Asia Pacific,Busan,2025/11/17,579,3.59,71.2,7.04,66.1
+WH-29,Asia Pacific,Busan,20-Dec-2025,487,2.24,61.8,4.5,69.6
+WH-29,Asia Pacific,Busan,24-Dec-2025,398,4.85,67.7,5.56,38.7
+WH-29,Asia Pacific,Busan,02-Jan-2026,227,5.5,63.8,4.47,23.0
+WH-29,Asia Pacific,Busan,2026-03-04,358,6.13,73.3,8.29,39.7
+WH-29,Asia Pacific,Busan,2026/04/13,393,5.02,62.0,5.91,31.5
+WH-29,Asia Pacific,Busan,30-Apr-2026,460,4.27,56.8,5.35,56.9
+WH-29,Asia Pacific,Busan,2026/05/01,220,4.24,56.7,5.28,32.1
+WH-30,Middle East & Africa,Cairo,2025-05-17,20,8.97,74.4,4.42,10.0
+WH-30,Middle East & Africa,Cairo,2025/07/18,731,9.99,73.9,3.93,81.5
+WH-30,Middle East & Africa,Cairo,21-Aug-2025,487,9.64,91.9,6.5,86.8
+WH-30,Middle East & Africa,Cairo,2025/11/29,352,9.77,69.7,5.55,37.0
+WH-30,Middle East & Africa,Cairo,10-Dec-2025,131,10.63,69.0,4.78,20.0
+WH-30,Middle East & Africa,Cairo,Mar 06 2026,374,8.92,85.4,8.16,44.5
+WH-31,Middle East & Africa,Johannesburg,Jan 27 2025,480,6.44,80.6,1.51,73.1
+WH-31,Middle East & Africa,Johannesburg,2025-02-08,509,6.29,66.5,2.11,57.1
+WH-31,Middle East & Africa,Johannesburg,23-Mar-2025,394,5.55,81.2,0.01,82.2
+WH-31,Middle East & Africa,Johannesburg,2025-03-26,243,4.38,82.2,0.88,29.5
+WH-31,Middle East & Africa,Johannesburg,04-Apr-2025,377,7.58,83.0,0.0,72.7
+WH-31,Middle East & Africa,Johannesburg,2025-06-09,498,4.78,88.5,1.17,72.4
+WH-31,Middle East & Africa,Johannesburg,2025-07-31,282,7.1,70.3,0.74,37.8
+WH-31,Middle East & Africa,Johannesburg,08-Sep-2025,646,7.4,70.2,0.07,111.1
+WH-31,Middle East & Africa,Johannesburg,2025-09-27,507,4.88,78.6,0.98,101.1
+WH-31,Middle East & Africa,Johannesburg,26-Nov-2025,475,5.32,74.9,1.22,61.1
+WH-31,Middle East & Africa,Johannesburg,2026-01-25,392,4.18,86.7,0.58,68.6
+WH-31,Middle East & Africa,Johannesburg,2026-04-14,269,5.37,91.9,0.0,51.5
+WH-31,Middle East & Africa,Johannesburg,17-Apr-2026,314,7.49,81.1,1.64,45.7
+WH-31,Middle East & Africa,Johannesburg,08-May-2026,560,8.57,72.2,0.0,77.3
+WH-31,Middle East & Africa,Johannesburg,2026-05-12,121,6.19,63.5,0.0,16.9
+WH-32,North America,Dallas,Jan 17 2025,450,8.34,60.4,4.4,64.9
+WH-32,North America,Dallas,2025-03-22,567,9.07,62.1,5.59,90.3
+WH-32,North America,Dallas,Apr 03 2025,566,10.61,65.8,3.86,58.7
+WH-32,North America,Dallas,2025/07/02,549,8.37,58.0,4.07,68.6
+WH-32,North America,Dallas,2025-07-03,347,7.29,60.4,4.23,39.8
+WH-32,North America,Dallas,2025-07-27,425,5.7,65.7,5.31,47.2
+WH-32,North America,Dallas,Oct 10 2025,330,7.85,57.6,7.39,40.9
+WH-32,North America,Dallas,2025/12/15,783,6.3,74.5,5.34,70.0
+WH-32,North America,Dallas,01-Jan-2026,526,5.68,59.5,5.57,45.6
+WH-32,North America,Dallas,May 14 2026,419,8.79,62.7,5.88,34.0
+WH-33,Europe,Manchester,17-Apr-2025,213,9.31,100.0,1.53,43.8
+WH-33,Europe,Manchester,2025/05/25,427,7.02,98.6,0.0,86.3
+WH-33,Europe,Manchester,2025/06/29,470,10.07,86.2,0.55,55.6
+WH-33,Europe,Manchester,Sep 19 2025,377,6.37,74.6,1.35,62.9
+WH-33,Europe,Manchester,2025-10-25,653,6.47,85.1,2.84,109.6
+WH-33,Europe,Manchester,Jan 11 2026,636,8.03,76.1,0.0,56.6
+WH-33,Europe,Manchester,2026-01-25,357,7.78,92.6,1.14,46.5
+WH-33,Europe,Manchester,2026-02-16,403,6.24,82.1,1.96,67.6
+WH-34,Asia Pacific,Shenzhen,2025-01-10,497,2.26,63.7,3.72,75.5
+WH-34,Asia Pacific,Shenzhen,03-Apr-2025,647,3.77,65.3,4.64,76.8
+WH-34,Asia Pacific,Shenzhen,Apr 21 2025,640,4.77,66.0,4.17,69.2
+WH-34,Asia Pacific,Shenzhen,Apr 23 2025,241,4.01,62.0,0.62,37.6
+WH-34,Asia Pacific,Shenzhen,2025-04-25,644,3.01,68.1,3.57,102.0
+WH-34,Asia Pacific,Shenzhen,2025-05-02,568,4.13,54.5,2.36,76.8
+WH-34,Asia Pacific,Shenzhen,2025-07-13,763,4.39,63.5,1.88,96.6
+WH-34,Asia Pacific,Shenzhen,2025-08-27,372,5.36,64.6,2.81,59.3
+WH-34,Asia Pacific,Shenzhen,2026-01-10,783,3.34,73.5,1.95,106.7
+WH-34,Asia Pacific,Shenzhen,2026-01-29,676,5.13,56.6,1.95,67.4
+WH-35,Europe,Manchester,2025/04/16,420,3.21,99.0,3.26,78.8
+WH-35,Europe,Manchester,2025/04/30,347,1.8,89.8,4.65,60.8
+WH-35,Europe,Manchester,2025-06-02,362,0.5,95.8,4.33,81.8
+WH-35,Europe,Manchester,2025/07/26,357,2.27,98.9,5.16,71.1
+WH-35,Europe,Manchester,Nov 25 2025,411,2.36,90.1,3.14,64.6
+WH-35,Europe,Manchester,2025-12-24,410,2.92,100.0,2.48,77.6
+WH-35,Europe,Manchester,2026-05-28,763,3.64,100.0,5.67,141.7
+WH-36,North America,Toronto,Feb 19 2025,416,4.75,77.8,3.43,38.6
+WH-36,North America,Toronto,2025/04/05,612,4.13,73.3,4.56,68.8
+WH-36,North America,Toronto,Apr 10 2025,470,2.98,66.8,2.54,56.8
+WH-36,North America,Toronto,2025/11/22,253,6.17,73.7,0.91,21.5
+WH-36,North America,Toronto,Mar 15 2026,446,3.74,73.1,5.04,46.0
+WH-36,North America,Toronto,2026-04-01,233,4.95,66.3,6.03,31.3
+WH-36,North America,Toronto,May 21 2026,413,7.35,74.6,5.5,70.6
+WH-37,Asia Pacific,Osaka,2025/08/31,244,6.05,79.7,5.73,32.2
+WH-37,Asia Pacific,Osaka,Jan 01 2026,432,9.41,81.2,7.07,89.6
+WH-37,Asia Pacific,Osaka,04-Jan-2026,357,9.18,81.9,8.25,40.6
+WH-37,Asia Pacific,Osaka,2026/01/20,647,8.79,82.2,5.81,129.7
+WH-37,Asia Pacific,Osaka,2026-02-07,682,5.85,76.1,3.01,100.3
+WH-37,Asia Pacific,Osaka,2026/02/09,462,7.19,72.0,5.92,67.8
+WH-37,Asia Pacific,Osaka,2026-02-11,610,6.52,58.4,5.99,53.6
+WH-37,Asia Pacific,Osaka,10-Mar-2026,604,6.67,73.2,4.74,84.5
+WH-37,Asia Pacific,Osaka,16-Mar-2026,599,6.4,76.8,4.93,59.2
+WH-38,Asia Pacific,Mumbai,2025-03-03,618,7.51,93.9,5.07,121.1
+WH-38,Asia Pacific,Mumbai,20-May-2025,528,5.25,81.1,5.72,79.2
+WH-38,Asia Pacific,Mumbai,Nov 29 2025,518,6.53,100.0,4.53,101.3
+WH-38,Asia Pacific,Mumbai,2026/02/17,416,6.62,89.1,1.82,80.4
+WH-39,Asia Pacific,Singapore,2025-01-13,309,2.62,93.7,0.82,50.1
+WH-39,Asia Pacific,Singapore,07-Mar-2025,377,3.77,96.0,1.35,45.5
+WH-39,Asia Pacific,Singapore,05-May-2025,390,5.08,88.5,0.0,77.3
+WH-39,Asia Pacific,Singapore,2025-06-09,558,2.01,88.3,1.33,99.1
+WH-39,Asia Pacific,Singapore,2025/09/11,477,5.35,98.6,0.0,94.9
+WH-39,Asia Pacific,Singapore,2025/12/18,264,0.93,94.0,3.97,41.9
+WH-39,Asia Pacific,Singapore,2026-02-11,497,4.17,97.4,0.0,119.1
+WH-39,Asia Pacific,Singapore,Feb 17 2026,43,4.36,82.4,0.45,10.0
+WH-39,Asia Pacific,Singapore,2026-02-27,550,4.77,82.2,2.78,102.9
+WH-39,Asia Pacific,Singapore,01-May-2026,669,3.25,77.8,1.25,82.0
+WH-39,Asia Pacific,Singapore,2026/05/07,463,4.94,91.6,0.0,98.3
+WH-40,Europe,Lyon,2025-03-15,539,7.95,57.0,7.16,54.6
+WH-40,Europe,Lyon,28-Mar-2025,180,11.35,68.8,5.71,27.3
+WH-40,Europe,Lyon,Aug 09 2025,350,8.67,58.3,4.42,24.2
+WH-40,Europe,Lyon,24-Jan-2026,787,7.47,69.6,4.65,126.6
+WH-40,Europe,Lyon,07-May-2026,259,8.77,56.6,3.92,21.2
+WH-40,Europe,Lyon,May 08 2026,326,8.23,66.8,3.72,42.4
+WH-41,Asia Pacific,Ho Chi Minh City,28-Jan-2025,110,9.79,100.0,2.98,26.9
+WH-41,Asia Pacific,Ho Chi Minh City,20-Feb-2025,349,7.58,81.4,5.83,56.5
+WH-41,Asia Pacific,Ho Chi Minh City,Mar 01 2025,398,10.16,90.7,2.39,63.0
+WH-41,Asia Pacific,Ho Chi Minh City,2025-03-05,331,10.91,92.1,3.73,70.1
+WH-41,Asia Pacific,Ho Chi Minh City,23-Mar-2025,136,10.65,88.2,6.96,17.8
+WH-41,Asia Pacific,Ho Chi Minh City,2025-04-10,342,8.62,93.7,4.57,72.4
+WH-41,Asia Pacific,Ho Chi Minh City,2025-06-14,254,8.93,84.7,9.02,40.5
+WH-41,Asia Pacific,Ho Chi Minh City,2025-07-23,562,9.76,95.5,3.1,115.3
+WH-41,Asia Pacific,Ho Chi Minh City,Oct 31 2025,315,9.94,83.5,3.06,44.8
+WH-41,Asia Pacific,Ho Chi Minh City,Nov 13 2025,133,7.85,71.4,5.96,16.5
+WH-41,Asia Pacific,Ho Chi Minh City,Jan 01 2026,778,7.86,83.1,3.75,148.9
+WH-41,Asia Pacific,Ho Chi Minh City,2026-04-24,591,9.8,91.6,5.11,137.8
+WH-42,North America,Memphis,2025-03-15,345,5.45,64.4,0.28,57.1
+WH-42,North America,Memphis,Apr 16 2025,471,3.71,58.8,4.22,66.4
+WH-42,North America,Memphis,2025-06-06,376,4.37,55.1,1.49,35.3
+WH-42,North America,Memphis,Jun 23 2025,419,6.6,54.3,2.75,35.9
+WH-42,North America,Memphis,2025-07-08,20,3.56,64.0,4.13,10.0
+WH-42,North America,Memphis,2025/08/01,267,4.64,67.1,0.81,24.5
+WH-42,North America,Memphis,2025-09-15,593,5.78,57.9,2.84,43.2
+WH-42,North America,Memphis,15-Nov-2025,227,6.3,59.9,5.35,33.8
+WH-42,North America,Memphis,2025-12-10,483,2.67,67.9,4.09,72.8
+WH-42,North America,Memphis,2026/03/14,423,5.84,55.5,1.95,31.9
+WH-43,Europe,Madrid,2025-01-18,733,2.78,74.1,3.38,88.4
+WH-43,Europe,Madrid,Apr 19 2025,408,5.99,89.2,3.08,51.8
+WH-43,Europe,Madrid,14-Jun-2025,451,3.54,66.0,3.38,63.4
+WH-43,Europe,Madrid,2025/06/19,714,3.31,78.3,3.39,67.8
+WH-43,Europe,Madrid,2025/07/17,550,1.44,91.5,1.13,61.0
+WH-43,Europe,Madrid,2026-01-14,583,4.42,79.1,3.41,65.6
+WH-43,Europe,Madrid,2026-03-29,88,2.37,79.3,5.62,17.6
+WH-43,Europe,Madrid,16-Apr-2026,486,0.82,86.3,3.37,98.0
+WH-43,Europe,Madrid,19-May-2026,391,4.82,73.3,4.62,61.2
+WH-44,Europe,Rotterdam,21-Jan-2025,373,10.18,84.7,5.91,75.1
+WH-44,Europe,Rotterdam,2025-05-02,445,10.01,83.3,5.11,72.7
+WH-44,Europe,Rotterdam,29-Jun-2025,629,9.66,93.2,3.55,86.1
+WH-44,Europe,Rotterdam,27-Jul-2025,426,9.12,81.6,4.72,42.9
+WH-44,Europe,Rotterdam,2026/02/01,389,7.37,86.2,3.54,75.3
+WH-44,Europe,Rotterdam,2026-03-16,346,9.24,93.2,3.91,38.8
+WH-44,Europe,Rotterdam,Mar 29 2026,578,10.63,75.6,4.24,107.4
+WH-44,Europe,Rotterdam,2026-04-24,168,10.84,91.3,7.24,30.6
+WH-44,Europe,Rotterdam,May 22 2026,35,9.62,91.7,4.37,10.0
+WH-45,Latin America,Santiago,Jan 06 2025,445,2.52,100.0,5.05,68.6
+WH-45,Latin America,Santiago,2025/03/24,394,3.16,100.0,3.63,99.5
+WH-45,Latin America,Santiago,02-Apr-2025,425,4.56,88.7,5.28,55.4
+WH-45,Latin America,Santiago,Apr 08 2025,428,4.51,88.8,7.82,64.4
+WH-45,Latin America,Santiago,2025-04-24,510,3.03,81.6,5.41,106.6
+WH-45,Latin America,Santiago,2025/05/13,315,1.12,92.2,6.92,48.5
+WH-45,Latin America,Santiago,2025-06-16,138,0.96,94.5,6.31,16.7
+WH-45,Latin America,Santiago,2025-07-25,341,3.74,89.6,8.19,67.5
+WH-45,Latin America,Santiago,2025/10/29,468,2.21,58.6,7.19,53.9
+WH-45,Latin America,Santiago,Nov 20 2025,579,3.28,82.9,4.39,90.0
+WH-45,Latin America,Santiago,2026-05-02,312,2.13,96.0,6.21,50.8
+WH-46,Asia Pacific,Ho Chi Minh City,2025/01/10,664,7.61,77.4,4.94,80.6
+WH-46,Asia Pacific,Ho Chi Minh City,Mar 30 2025,301,6.93,77.5,1.78,27.3
+WH-46,Asia Pacific,Ho Chi Minh City,2025/05/08,268,7.65,92.8,4.03,57.3
+WH-46,Asia Pacific,Ho Chi Minh City,May 11 2025,500,4.8,87.6,5.14,50.3
+WH-46,Asia Pacific,Ho Chi Minh City,2025/06/22,247,5.08,73.7,4.65,39.5
+WH-46,Asia Pacific,Ho Chi Minh City,Aug 22 2025,230,5.36,72.5,6.25,24.9
+WH-46,Asia Pacific,Ho Chi Minh City,22-Sep-2025,622,4.39,62.4,4.75,90.2
+WH-46,Asia Pacific,Ho Chi Minh City,2025-11-19,564,4.03,74.6,4.22,89.2
+WH-46,Asia Pacific,Ho Chi Minh City,Mar 02 2026,567,4.25,69.1,4.93,67.5
+WH-46,Asia Pacific,Ho Chi Minh City,Mar 22 2026,377,7.53,74.3,4.89,71.5
+WH-46,Asia Pacific,Ho Chi Minh City,May 11 2026,664,4.81,80.9,5.68,134.4
+WH-46,Asia Pacific,Ho Chi Minh City,2026/05/24,483,7.53,79.1,4.31,59.6
+WH-47,Middle East & Africa,Johannesburg,Feb 24 2025,450,4.23,85.9,4.9,51.5
+WH-47,Middle East & Africa,Johannesburg,Mar 07 2025,711,4.32,80.4,0.28,77.0
+WH-47,Middle East & Africa,Johannesburg,2025-07-17,427,5.17,75.7,0.0,60.1
+WH-47,Middle East & Africa,Johannesburg,2025-07-22,503,4.01,75.6,2.6,77.1
+WH-47,Middle East & Africa,Johannesburg,2025-08-13,411,2.28,79.6,4.08,37.7
+WH-47,Middle East & Africa,Johannesburg,27-Aug-2025,48,4.99,73.8,3.08,10.0
+WH-47,Middle East & Africa,Johannesburg,2025-10-07,441,6.07,75.5,2.52,40.2
+WH-47,Middle East & Africa,Johannesburg,2025-10-21,232,2.6,69.5,3.48,24.1
+WH-47,Middle East & Africa,Johannesburg,2025/12/28,525,4.58,78.2,4.01,48.7
+WH-47,Middle East & Africa,Johannesburg,2025/12/29,482,2.48,85.3,3.01,104.9
+WH-47,Middle East & Africa,Johannesburg,2026/04/22,98,2.4,79.8,1.27,13.5
+WH-47,Middle East & Africa,Johannesburg,26-May-2026,526,3.38,79.5,3.86,59.1
+WH-48,Asia Pacific,Busan,Feb 04 2025,680,2.17,61.8,0.0,96.5
+WH-48,Asia Pacific,Busan,2025/04/26,855,3.56,78.2,2.84,132.5
+WH-48,Asia Pacific,Busan,May 04 2025,494,3.65,71.5,1.65,49.7
+WH-48,Asia Pacific,Busan,Jun 12 2025,314,3.02,86.9,1.52,41.9
+WH-48,Asia Pacific,Busan,18-Jun-2025,527,2.39,71.5,0.98,92.1
+WH-48,Asia Pacific,Busan,Sep 03 2025,735,4.44,67.1,0.0,101.0
+WH-48,Asia Pacific,Busan,04-Sep-2025,307,5.63,68.0,0.0,53.5
+WH-48,Asia Pacific,Busan,Dec 18 2025,712,3.49,74.2,1.29,127.2
+WH-49,North America,Chicago,20-Jan-2025,450,0.5,57.3,6.33,65.5
+WH-49,North America,Chicago,2025-03-31,552,2.95,60.7,1.81,71.8
+WH-49,North America,Chicago,Apr 05 2025,20,1.41,54.3,5.37,10.0
+WH-49,North America,Chicago,2025-06-10,527,2.04,68.7,7.02,80.6
+WH-49,North America,Chicago,2025/08/30,736,1.65,64.0,3.31,72.6
+WH-49,North America,Chicago,2026-01-16,402,2.48,64.1,6.14,50.7
+WH-49,North America,Chicago,2026/02/07,426,2.23,53.2,6.74,30.1
+WH-50,North America,Phoenix,03-Feb-2025,314,7.37,91.6,3.78,64.2
+WH-50,North America,Phoenix,2025/02/18,342,5.48,79.4,3.28,52.1
+WH-50,North America,Phoenix,25-Feb-2025,498,7.53,94.4,4.91,94.0
+WH-50,North America,Phoenix,Mar 05 2025,505,7.37,96.2,7.21,100.6
+WH-50,North America,Phoenix,2025-03-11,122,6.12,100.0,1.25,22.9
+WH-50,North America,Phoenix,2025-06-07,94,3.91,100.0,6.06,23.5
+WH-50,North America,Phoenix,15-Aug-2025,360,7.61,81.0,1.11,41.8
+WH-50,North America,Phoenix,18-Aug-2025,549,5.43,86.2,3.84,64.8
+WH-50,North America,Phoenix,02-Sep-2025,503,7.52,100.0,0.0,126.0
+WH-50,North America,Phoenix,2025-09-14,223,6.35,100.0,4.57,34.6
+WH-50,North America,Phoenix,2025-09-20,505,5.94,89.1,2.21,91.5
+WH-50,North America,Phoenix,Oct 09 2025,178,7.26,89.0,0.0,33.7
+WH-50,North America,Phoenix,27-Oct-2025,750,7.68,87.4,0.0,158.3
+WH-50,North America,Phoenix,2025-11-01,612,4.63,100.0,4.67,76.8
+WH-50,North America,Phoenix,2025-11-25,637,7.11,94.6,2.05,114.3
+WH-50,North America,Phoenix,21-Dec-2025,554,8.81,84.4,2.53,80.9
+WH-50,North America,Phoenix,Feb 10 2026,448,7.74,100.0,1.1,73.0
+WH-50,North America,Phoenix,2026-04-19,536,4.99,100.0,6.39,137.7
+WH-50,North America,Phoenix,27-May-2026,585,6.19,100.0,2.26,109.8
+WH-50,North America,Phoenix,May 30 2026,665,7.57,81.9,4.67,103.4
+WH-50,North America,Phoenix,May 31 2026,152,6.89,92.3,2.82,23.7
+WH-51,Asia Pacific,Osaka,15-Jan-2025,496,6.24,76.0,2.74,84.0
+WH-51,Asia Pacific,Osaka,2025-04-24,620,6.22,63.7,3.35,70.6
+WH-51,Asia Pacific,Osaka,May 10 2025,530,5.24,68.2,5.65,79.0
+WH-51,Asia Pacific,Osaka,Jul 25 2025,610,5.99,74.7,1.79,95.3
+WH-51,Asia Pacific,Osaka,Aug 10 2025,474,5.62,78.0,4.05,61.8
+WH-51,Asia Pacific,Osaka,2025-08-16,360,3.37,68.3,3.73,44.8
+WH-51,Asia Pacific,Osaka,26-Sep-2025,471,3.01,74.7,3.28,88.4
+WH-51,Asia Pacific,Osaka,18-Oct-2025,621,4.08,74.8,2.24,87.0
+WH-51,Asia Pacific,Osaka,2025/11/09,252,5.37,82.3,2.96,38.9
+WH-51,Asia Pacific,Osaka,Jan 11 2026,413,6.09,77.6,2.81,42.0
+WH-51,Asia Pacific,Osaka,2026-01-14,477,6.15,69.9,4.23,62.3
+WH-51,Asia Pacific,Osaka,21-Mar-2026,643,2.13,83.8,2.7,129.2
+WH-51,Asia Pacific,Osaka,2026-05-10,293,6.2,60.5,3.59,29.2
+WH-51,Asia Pacific,Osaka,2026/06/01,676,6.02,69.6,0.0,107.9
+WH-52,Asia Pacific,Shenzhen,Feb 08 2025,876,2.52,99.7,3.82,210.9
+WH-52,Asia Pacific,Shenzhen,Apr 15 2025,715,0.92,77.5,0.0,136.8
+WH-52,Asia Pacific,Shenzhen,2025-05-16,366,2.91,69.9,4.13,29.6
+WH-52,Asia Pacific,Shenzhen,2025-05-22,227,1.78,78.1,3.29,38.2
+WH-52,Asia Pacific,Shenzhen,2025-08-02,215,1.57,77.3,0.0,23.6
+WH-52,Asia Pacific,Shenzhen,2025/08/29,183,2.68,76.0,2.31,25.7
+WH-52,Asia Pacific,Shenzhen,2025-09-30,520,1.59,77.6,1.8,51.3
+WH-52,Asia Pacific,Shenzhen,2025-11-13,650,1.57,78.0,2.28,83.8
+WH-52,Asia Pacific,Shenzhen,2025/11/16,20,1.81,76.0,0.0,10.0
+WH-52,Asia Pacific,Shenzhen,2025/11/24,550,2.47,87.4,0.0,71.4
+WH-52,Asia Pacific,Shenzhen,Mar 18 2026,339,4.37,76.6,0.67,37.6
+WH-52,Asia Pacific,Shenzhen,2026/05/07,491,2.58,58.0,0.03,64.5
+WH-53,Europe,Madrid,2025-02-01,372,8.53,85.1,1.62,37.1
+WH-53,Europe,Madrid,Feb 18 2025,710,6.94,76.5,0.8,95.1
+WH-53,Europe,Madrid,Apr 24 2025,278,8.12,89.6,2.89,53.4
+WH-53,Europe,Madrid,11-Aug-2025,295,5.65,73.4,1.96,43.8
+WH-53,Europe,Madrid,Sep 18 2025,847,4.93,72.3,2.5,143.1
+WH-53,Europe,Madrid,2025-11-04,20,5.47,76.8,0.82,10.0
+WH-53,Europe,Madrid,Jan 22 2026,129,6.69,79.7,1.92,19.3
+WH-53,Europe,Madrid,2026-04-26,631,8.53,89.3,2.89,142.1
+WH-53,Europe,Madrid,08-May-2026,373,7.93,72.9,2.36,67.4
+WH-54,Asia Pacific,Mumbai,06-Feb-2025,339,3.76,75.2,1.23,47.3
+WH-54,Asia Pacific,Mumbai,2025/03/05,375,3.38,93.6,3.87,85.3
+WH-54,Asia Pacific,Mumbai,2025-03-23,20,3.81,69.9,6.29,10.0
+WH-54,Asia Pacific,Mumbai,May 22 2025,532,3.68,87.8,0.0,117.8
+WH-54,Asia Pacific,Mumbai,2025/07/25,281,3.5,87.7,4.46,49.5
+WH-54,Asia Pacific,Mumbai,19-Nov-2025,488,2.57,74.4,5.23,77.4
+WH-54,Asia Pacific,Mumbai,2025-12-27,457,2.01,86.5,0.09,76.7
+WH-54,Asia Pacific,Mumbai,2026-05-17,461,3.78,73.4,2.02,43.4
+WH-54,Asia Pacific,Mumbai,2026-05-24,856,2.75,73.3,6.87,111.4
+WH-55,Latin America,Santiago,Feb 17 2025,535,3.67,82.0,0.9,107.9
+WH-55,Latin America,Santiago,Mar 05 2025,748,2.72,100.0,0.0,137.8
+WH-55,Latin America,Santiago,Apr 14 2025,751,2.2,100.0,0.81,134.2
+WH-55,Latin America,Santiago,2025/10/01,481,2.88,83.1,1.45,46.6
+WH-55,Latin America,Santiago,Nov 01 2025,606,1.45,96.9,0.43,78.2
+WH-55,Latin America,Santiago,2026-02-16,344,4.53,100.0,0.0,65.4
+WH-55,Latin America,Santiago,2026/03/02,435,0.91,96.1,0.0,82.5
+WH-56,Latin America,Mexico City,2025/01/11,319,7.52,88.9,2.13,39.5
+WH-56,Latin America,Mexico City,Jan 13 2025,514,6.55,80.5,0.7,66.1
+WH-56,Latin America,Mexico City,2025-02-07,330,5.65,98.4,3.83,46.7
+WH-56,Latin America,Mexico City,Mar 28 2025,406,5.31,100.0,1.4,94.8
+WH-56,Latin America,Mexico City,08-Apr-2025,223,7.87,100.0,1.81,43.3
+WH-56,Latin America,Mexico City,May 01 2025,409,6.27,90.2,2.17,54.6
+WH-56,Latin America,Mexico City,03-May-2025,394,6.38,89.7,0.65,76.1
+WH-56,Latin America,Mexico City,2025/06/25,439,9.9,100.0,2.24,96.6
+WH-56,Latin America,Mexico City,02-Jul-2025,731,8.31,100.0,1.55,100.3
+WH-56,Latin America,Mexico City,2025/10/31,312,7.69,100.0,4.55,74.6
+WH-56,Latin America,Mexico City,09-Jan-2026,278,7.17,100.0,2.88,50.9
+WH-56,Latin America,Mexico City,2026/02/04,512,7.9,86.9,2.68,52.8
+WH-57,Asia Pacific,Mumbai,Jan 15 2025,191,6.3,50.1,1.48,12.9
+WH-57,Asia Pacific,Mumbai,2025-01-30,951,4.32,50.5,1.02,110.8
+WH-57,Asia Pacific,Mumbai,2025-03-04,359,3.01,50.4,3.16,29.9
+WH-57,Asia Pacific,Mumbai,2025-05-22,651,2.56,62.2,1.19,63.2
+WH-57,Asia Pacific,Mumbai,20-Jun-2025,419,2.67,60.5,0.48,47.8
+WH-57,Asia Pacific,Mumbai,Jul 29 2025,360,3.24,59.2,1.19,32.1
+WH-57,Asia Pacific,Mumbai,2025/11/07,434,1.34,68.7,1.39,73.4
+WH-57,Asia Pacific,Mumbai,2026-03-19,293,2.86,60.4,2.04,31.0
+WH-57,Asia Pacific,Mumbai,2026-03-24,106,2.19,72.3,3.42,11.0
+WH-57,Asia Pacific,Mumbai,2026/05/11,467,2.87,63.3,3.66,57.8
+WH-57,Asia Pacific,Mumbai,May 23 2026,378,3.6,69.3,1.58,37.6
+WH-58,Europe,Lyon,2025/02/25,20,4.13,88.8,3.2,10.0
+WH-58,Europe,Lyon,2025-03-20,328,3.64,77.9,0.41,52.7
+WH-58,Europe,Lyon,2025-03-27,371,3.34,90.7,1.86,59.9
+WH-58,Europe,Lyon,19-May-2025,488,2.85,86.2,1.13,55.2
+WH-58,Europe,Lyon,May 31 2025,422,3.34,91.2,0.0,88.3
+WH-58,Europe,Lyon,Nov 01 2025,606,3.4,83.6,1.55,96.0
+WH-58,Europe,Lyon,2025/11/03,513,1.2,93.4,0.02,63.6
+WH-58,Europe,Lyon,08-Feb-2026,514,1.63,86.3,1.1,111.0
+WH-59,Middle East & Africa,Nairobi,29-Jan-2025,397,4.32,94.8,5.31,72.6
+WH-59,Middle East & Africa,Nairobi,2025/05/12,605,6.91,83.5,5.86,71.4
+WH-59,Middle East & Africa,Nairobi,17-May-2025,435,4.06,99.8,2.97,56.8
+WH-59,Middle East & Africa,Nairobi,2025-07-08,23,6.17,100.0,4.2,10.0
+WH-59,Middle East & Africa,Nairobi,2025-08-21,666,5.75,100.0,4.07,159.2
+WH-59,Middle East & Africa,Nairobi,2025-09-13,383,5.59,99.2,2.73,72.4
+WH-59,Middle East & Africa,Nairobi,2025-12-02,359,6.16,96.8,4.23,76.2
+WH-59,Middle East & Africa,Nairobi,2025/12/16,314,6.17,95.9,3.6,48.5
+WH-59,Middle East & Africa,Nairobi,2026-02-14,601,3.91,95.1,4.4,72.4
+WH-60,Asia Pacific,Ho Chi Minh City,2025/03/06,115,6.01,53.1,5.33,10.4
+WH-60,Asia Pacific,Ho Chi Minh City,11-Mar-2025,329,7.42,70.9,3.68,43.4
+WH-60,Asia Pacific,Ho Chi Minh City,2025/04/13,707,8.32,71.6,1.78,96.5
+WH-60,Asia Pacific,Ho Chi Minh City,Apr 17 2025,597,8.6,65.3,6.04,51.3
+WH-60,Asia Pacific,Ho Chi Minh City,2025-11-15,159,7.35,72.8,5.16,16.2
+WH-60,Asia Pacific,Ho Chi Minh City,2026-03-17,322,6.72,57.9,1.31,45.2
