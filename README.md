@@ -166,4 +166,4 @@ The cleaned, modeled data was connected to **Power BI** to build a dashboard foc
 ## 👤 Author
 **[Anshul]**
 Aspiring Data Analyst | SQL · Data Modeling · Power BI
-📧 [1311anshul@gmail.com] | 🔗 [LinkedIn](https://www.linkedin.com/in/anshuljangra4/) 
+📧 [1311anshul@gmail.com] | 🔗 [LinkedIn](https://www.linkedin.com/in/anshuljangra8/) 
